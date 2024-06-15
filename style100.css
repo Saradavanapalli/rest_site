@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(restback6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:orangered;
+    border-radius:10px;
+  }
+.tiffins{
+    padding-left: 50px;
+    float: left;
+}
+.tiffins1{
+    padding-left: 100px;
+    float: left;
+}
+.tiffins2{
+    padding-left: 150px;
+    float: left;
+}
+.tiffins3{
+    padding-left: 200px;
+    float: left;
+  
+}
+.lunchs1{
+    padding-left: 50px;
+    float: left;
+  
+}
+.lunchs2{
+    padding-left: 100px;
+    float: left;
+}
+.lunchs3{
+    padding-left: 150px;
+    float: left;
+}
+.lunchs4{
+    padding-left: 150px;
+    float: left;
+}
+.dinner1{
+    padding-left: 50px;
+    float: left;
+  
+}
+.dinner2{
+    padding-left: 100px;
+    float: left;
+}
+.dinner3{
+    padding-left: 150px;
+    float: left;
+}
+.dinner4{
+    padding-left: 200px;
+    float: left;
+}
+.contact1{
+    padding-left: 200px;
+    float: left;
+}
